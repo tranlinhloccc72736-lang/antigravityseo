@@ -30,7 +30,6 @@
   <a href="https://github.com/Antigravity/antigravity-seo/releases"><img src="https://img.shields.io/github/v/release/Antigravity/antigravity-seo" alt="Version" /></a>
   <a href="tests/"><img src="https://img.shields.io/badge/tests-3888%20passing-brightgreen" alt="Tests" /></a>
   <a href="https://github.com/Antigravity/antigravity-seo"><img src="https://img.shields.io/github/stars/Antigravity/antigravity-seo?style=flat" alt="GitHub stars" /></a>
-  <a href=""><img src="https://img.shields.io/badge/AI%20Marketing%20Hub-Pro%20community-purple" alt="AI Marketing Hub Pro community" /></a>
 </p>
 
 <p align="center">
