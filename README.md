@@ -49,21 +49,7 @@ It checks everything a good SEO consultant would:
 
 Antigravity SEO is built from 29 sub-skills and 20 specialist agents, and up to 17 agents work on your site at the same time. Every recommendation explains why it matters and how you will know it worked.
 
-## See it in action
 
-Watch the tour in under four minutes. Coral, Violet and Red install Antigravity SEO, audit a real site and read the plan:
-
-<a href="https://www.youtube.com/watch?v=1VQvcKMcVsk"><img src="assets/readme/homies-tour.jpg" width="640" height="360" alt="Watch the Antigravity SEO video tour on YouTube: a full SEO team in your terminal, presented by Coral, Violet and Red" /></a>
-
-Type `/seo` in Antigravity to see every command:
-
-![Antigravity SEO /seo command demo in the Antigravity terminal](screenshots/seo-command-demo.gif)
-
-Run a full audit and watch the agents fan out across the site:
-
-![Antigravity SEO /seo audit demo: parallel agents producing a prioritized action plan](screenshots/seo-audit-demo.gif)
-
-[Watch the full demo on YouTube](https://www.youtube.com/watch?v=COMnNlUakQk)
 
 ## Real results
 
