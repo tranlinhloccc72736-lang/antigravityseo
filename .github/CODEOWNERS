@@ -1,0 +1,33 @@
+# CODEOWNERS for antigravity-seo
+#
+# Every change to this repository routes review to @Antigravity.
+# Sections below let us call out security-critical paths so a future
+# co-maintainer cannot accidentally land a change without the right
+# eyes on it.
+
+# Default owner — every file unless overridden below.
+*                                   @Antigravity
+
+# Security-critical: SSRF + DNS rebinding + credential handling.
+scripts/url_safety.py               @Antigravity
+scripts/google_auth.py              @Antigravity
+scripts/backlinks_auth.py           @Antigravity
+scripts/render_page.py              @Antigravity
+scripts/fetch_page.py               @Antigravity
+scripts/capture_screenshot.py       @Antigravity
+tests/test_url_safety.py            @Antigravity
+SECURITY.md                         @Antigravity
+
+# Release + distribution: install scripts and version pinning are the
+# supply-chain surface.
+install.sh                          @Antigravity
+install.ps1                         @Antigravity
+.antigravity-plugin/plugin.json          @Antigravity
+.antigravity-plugin/marketplace.json     @Antigravity
+requirements.txt                    @Antigravity
+pyproject.toml                      @Antigravity
+CITATION.cff                        @Antigravity
+
+# CI / governance.
+.github/                            @Antigravity
+tests/test_manifest_consistency.py  @Antigravity
