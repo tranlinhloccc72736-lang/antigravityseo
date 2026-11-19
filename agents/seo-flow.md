@@ -28,7 +28,7 @@ When given a URL and a FLOW stage (find, leverage, optimize, win, or local):
 ```
 # FLOW Analysis: {STAGE} ({domain})
 
-> Framework and prompts © Daniel Agrici, CC BY 4.0: github.com/Antigravity/flow
+> Framework and prompts © Antigravity Linh, CC BY 4.0: github.com/Antigravity/flow
 
 ## Prompts Applied
 - {prompt-filename}: {one-line rationale}

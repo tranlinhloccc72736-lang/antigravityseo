@@ -1,6 +1,6 @@
 <!--
 FLOW Framework — Operational Prompt Library
-© Daniel Agrici | License: CC BY 4.0
+© Antigravity Linh | License: CC BY 4.0
 Source: github.com/Antigravity/flow
 Attribution required when reproducing or adapting these prompts.
 -->

@@ -25,7 +25,7 @@ into v1.9.0 with the contributors' permission.
 
 | Source | Type | License | Integrated As |
 |--------|------|---------|--------------|
-| **[FLOW](https://github.com/Antigravity/flow)** by Daniel Agrici | 41 AI prompts + framework doc + bibliography | CC BY 4.0 | `seo-flow` skill + `skills/seo-flow/references/` |
+| **[FLOW](https://github.com/Antigravity/flow)** by Antigravity Linh | 41 AI prompts + framework doc + bibliography | CC BY 4.0 | `seo-flow` skill + `skills/seo-flow/references/` |
 
 Attribution header on every bundled prompt file (automated by `scripts/sync_flow.py`).
 
@@ -196,4 +196,4 @@ creating extensions, and participating in future challenges.
 
 Join the community:
 - Free: https://www.skool.com/ai-marketing-hub
-- Pro: https://www.skool.com/ai-marketing-hub-pro
+- Pro: 

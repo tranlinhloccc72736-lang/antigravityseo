@@ -80,7 +80,7 @@ def test_discussion_includes_interaction_statistic_when_likes_set() -> None:
 
 def test_profile_includes_same_as_and_knows_about() -> None:
     r = schema_generate.profile(
-        "Daniel Agrici",
+        "Antigravity Linh",
         url="https://antigravity.com/about",
         same_as=["https://github.com/Antigravity", "https://orcid.org/0000-0000-0000-0000"],
         knows_about=["SEO", "Schema markup", "Core Web Vitals"],

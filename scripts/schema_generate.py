@@ -34,7 +34,7 @@ Usage::
         --date 2026-05-12T14:00:00Z
 
     python scripts/schema_generate.py profile \\
-        --name "Daniel Agrici" \\
+        --name "Antigravity Linh" \\
         --url https://antigravity.com/about \\
         --same-as https://github.com/Antigravity \\
                   https://twitter.com/antigravity \\

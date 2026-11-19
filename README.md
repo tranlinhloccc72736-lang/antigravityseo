@@ -1,5 +1,5 @@
 <!--
-  Antigravity SEO (antigravity-seo): free, open-source SEO audit plugin for Antigravity by Agrici Daniel.
+  Antigravity SEO (antigravity-seo): free, open-source SEO audit plugin for Antigravity by Antigravity Linh.
   Technical SEO, Core Web Vitals, E-E-A-T, Schema.org, AI search (GEO), local SEO, e-commerce and international SEO.
   29 sub-skills and 20 specialist agents. MIT licensed.
 -->
@@ -30,7 +30,7 @@
   <a href="https://github.com/Antigravity/antigravity-seo/releases"><img src="https://img.shields.io/github/v/release/Antigravity/antigravity-seo" alt="Version" /></a>
   <a href="tests/"><img src="https://img.shields.io/badge/tests-3888%20passing-brightgreen" alt="Tests" /></a>
   <a href="https://github.com/Antigravity/antigravity-seo"><img src="https://img.shields.io/github/stars/Antigravity/antigravity-seo?style=flat" alt="GitHub stars" /></a>
-  <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="https://img.shields.io/badge/AI%20Marketing%20Hub-Pro%20community-purple" alt="AI Marketing Hub Pro community" /></a>
+  <a href=""><img src="https://img.shields.io/badge/AI%20Marketing%20Hub-Pro%20community-purple" alt="AI Marketing Hub Pro community" /></a>
 </p>
 
 <p align="center">
@@ -186,7 +186,7 @@ Reports are saved as Markdown, and `/seo google report` turns them into a polish
 | Passed Checks       | 18                                          |
 | Overall Grade       | B+ (solid foundation, actionable gaps)      |
 
-**Critical Issue:** The `founder` property only includes Daniel Agrici.
+**Critical Issue:** The `founder` property only includes Antigravity Linh.
 Benjamin Samar (Co-Founder and Technical Director) is displayed on the page
 but absent from the schema. This content-schema mismatch can confuse search engines.
 ```
@@ -246,7 +246,7 @@ powershell -ExecutionPolicy Bypass -File antigravity-seo\install.ps1
 
 </details>
 
-> **Two versions.** This public version is MIT licensed and free for everyone. [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro) members also get a private version with early access to new features. Members install it with:
+> **Two versions.** This public version is MIT licensed and free for everyone. [AI Marketing Hub Pro]() members also get a private version with early access to new features. Members install it with:
 >
 > ```bash
 > /plugin marketplace add AI-Marketing-Hub/antigravity-seo
@@ -386,13 +386,13 @@ MIT License, see [LICENSE](LICENSE). Contributions are welcome: read [CONTRIBUTI
 
 ## Author
 
-Built by **[Agrici Daniel](https://antigravity.com/about)**, AI Workflow Architect, with help from the [AI Marketing Hub Pro](https://www.skool.com/ai-marketing-hub-pro) community.
+Built by **[Antigravity Linh](https://antigravity.com/about)**, AI Workflow Architect, with help from the [AI Marketing Hub Pro]() community.
 
 <img src="assets/readme/v3/credits.svg" width="1200" height="420" alt="Thanks for playing: the three bots by a bonfire fed with search engine logos while the credits crawl into the stars." />
 
 <p align="center">
   <a href="https://www.youtube.com/@Antigravity"><img src="assets/readme/btn-youtube.svg" width="137" height="44" alt="Antigravity tutorials and demos on YouTube" /></a>
   <a href="https://www.skool.com/ai-marketing-hub"><img src="assets/readme/btn-hub.svg" width="210" height="44" alt="AI Marketing Hub, the free community on Skool" /></a>
-  <a href="https://www.skool.com/ai-marketing-hub-pro"><img src="assets/readme/btn-pro.svg" width="155" height="44" alt="AI Marketing Hub Pro: early access to this skill" /></a>
+  <a href=""><img src="assets/readme/btn-pro.svg" width="155" height="44" alt="AI Marketing Hub Pro: early access to this skill" /></a>
 </p>
 
